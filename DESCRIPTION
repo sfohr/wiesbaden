@@ -18,5 +18,6 @@ Imports:
     readr (>= 1.0.0)
 Suggests:
     dplyr,
-    tidyr
+    tidyr,
+    jsonlite
 RoxygenNote: 6.0.1
